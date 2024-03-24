@@ -149,7 +149,77 @@
       "Nickname": "Sterminio",
       "Img": "",
       "Ruolo": "sr.Mod"
-  }
-    
+  },
+    {
+        "Nickname": "Chiah",
+        "Img": "https://cdn.discordapp.com/avatars/332137399603822603/22c2a5a72f61d5999d918b949717dc0f.webp?size=80",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Sterminio",
+        "Img": "https://cdn.discordapp.com/avatars/797525250370699295/89af8a7965f13e3fc3d8d84660632ab3.webp?size=80",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Watsune",
+        "Img": "https://cdn.discordapp.com/avatars/361903051382194186/3696cd225fc5ffe3200daae8662a16a9.webp?size=80",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Scally",
+        "Img": "https://cdn.discordapp.com/avatars/1202658923392278528/00cad91d7add2fc0d6851b4e44913872.webp?size=80",
+        "Ruolo": "Mod"
+    },
+    {
+        "Nickname": "Disslessq",
+        "Img": "https://cdn.discordapp.com/avatars/923222140424167495/8c71457cfa1245c3e9e1d3b18b7af485.webp?size=80",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "Fulminix307",
+        "Img": "",
+        "Ruolo": "Hemlper"
+    },
+    {
+        "Nickname": "Marcolino",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "NotSilvy",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "SonoMagic",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "ThePope",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "Diegonator",
+        "Img": "",
+        "Ruolo": "Trainee"
+    },
+    {
+        "Nickname": "Huzu",
+        "Img": "",
+        "Ruolo": "Builder"
+    },
+    {
+        "Nickname": "MikyOscio",
+        "Img": "",
+        "Ruolo": "Builder"
+    },
+    {
+        "Nickname": "Sterminio",
+        "Img": "",
+        "Ruolo": "sr.Mod"
+    }
+      
 ]
 

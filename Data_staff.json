@@ -110,16 +110,7 @@
       "Img": "",
       "Ruolo": "Hemlper"
   },
-  {
-      "Nickname": "Marcolino",
-      "Img": "",
-      "Ruolo": "Helper"
-  },
-  {
-      "Nickname": "NotSilvy",
-      "Img": "",
-      "Ruolo": "Helper"
-  },
+
   {
       "Nickname": "SonoMagic",
       "Img": "",
@@ -160,52 +151,8 @@
         "Nickname": "Scally",
         "Img": "https://cdn.discordapp.com/avatars/1202658923392278528/00cad91d7add2fc0d6851b4e44913872.webp?size=80",
         "Ruolo": "Mod"
-    },
-    {
-        "Nickname": "Disslessq",
-        "Img": "https://cdn.discordapp.com/avatars/923222140424167495/8c71457cfa1245c3e9e1d3b18b7af485.webp?size=80",
-        "Ruolo": "Helper"
-    },
-    {
-        "Nickname": "Fulminix307",
-        "Img": "",
-        "Ruolo": "Hemlper"
-    },
-    {
-        "Nickname": "Marcolino",
-        "Img": "",
-        "Ruolo": "Helper"
-    },
-    {
-        "Nickname": "NotSilvy",
-        "Img": "",
-        "Ruolo": "Helper"
-    },
-    {
-        "Nickname": "SonoMagic",
-        "Img": "",
-        "Ruolo": "Helper"
-    },
-    {
-        "Nickname": "ThePope",
-        "Img": "",
-        "Ruolo": "Helper"
-    },
-    {
-        "Nickname": "Diegonator",
-        "Img": "",
-        "Ruolo": "Trainee"
-    },
-    {
-        "Nickname": "Huzu",
-        "Img": "",
-        "Ruolo": "Builder"
-    },
-    {
-        "Nickname": "MikyOscio",
-        "Img": "",
-        "Ruolo": "Builder"
     }
+
 
       
 ]

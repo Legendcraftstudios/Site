@@ -1,0 +1,160 @@
+[
+    {
+      "Nickname": "Wormiz",
+      "Img": "https://cdn.discordapp.com/avatars/889565852645613638/ae9de31461b94d748695daa25a869407.webp?size=80",
+      "Ruolo": "Owner"
+    },
+    {
+      "Nickname": "Kmostro",
+      "Img": "https://cdn.discordapp.com/avatars/730854422955032667/f925700f9ebfe8f14f35f4bf57b0c14f.webp?size=128",
+      "Ruolo": "Owner"
+    },
+    {
+      "Nickname": "Priamix",
+      "Img": "https://cdn.discordapp.com/avatars/854442114723872818/a66273c5a0328d0d9b6fea8b0d65bdd9.webp?size=80",
+      "Ruolo": "Owner"
+    },
+    {
+      "Nickname": "UgOrr",
+      "Img": "https://cdn.discordapp.com/avatars/690939219899580448/39a4f4d1e404f2bc2af7086080c5e09c.webp?size=80",
+      "Ruolo": "sr.Admin"
+    },
+    {
+      "Nickname": "Zayrox",
+      "Img": "https://cdn.discordapp.com/avatars/599957090584494096/a367c1b6b6e591e30ac3d3b613e9d5ce.webp?size=80",
+      "Ruolo": "sr.Admin"
+    },
+    {
+      "Nickname": "Luky",
+      "Img": "https://cdn.discordapp.com/avatars/1108499200062259281/461720b1fdaf53e7f7f752bc582737c6.webp?size=80",
+      "Ruolo": "Admin"
+    },
+    {
+      "Nickname": "Mandress",
+      "Img": "https://cdn.discordapp.com/avatars/578970051009576961/30876f7f6830f900676e26d542bc57c8.webp?size=80",
+      "Ruolo": "Admin"
+    },
+    {
+      "Nickname": "Marvix",
+      "Img": "https://cdn.discordapp.com/avatars/790918391262740480/089737cd832a6427db520474612e938a.webp?size=80",
+      "Ruolo": "Admin"
+    },
+    {
+      "Nickname": "MrDomi",
+      "Img": "https://cdn.discordapp.com/avatars/365127905623277569/9ce87017624d8275bd0a02e5020263c1.webp?size=80",
+      "Ruolo": "Admin"
+    },
+    {
+      "Nickname": "ParkOnSa_",
+      "Img": "https://cdn.discordapp.com/avatars/993155208655933480/7a87c99ef7241711dccd1280e85196a7.webp?size=80",
+      "Ruolo": "Admin"
+    },
+    {
+      "Nickname": "Mandress",
+      "Img": "https://cdn.discordapp.com/avatars/578970051009576961/30876f7f6830f900676e26d542bc57c8.webp?size=80",
+      "Ruolo": "Dev"
+    },
+    {
+      "Nickname": "Dann",
+      "Img": "https://cdn.discordapp.com/avatars/1077935035526684702/12fa4a59003a69b7195575b04aa52f51.webp?size=80",
+      "Ruolo": "Dev"
+    },
+    {
+      "Nickname": "Moltiplicazione",
+      "Img": "https://cdn.discordapp.com/avatars/954682864681754635/3fbd8f4ae943184f67d485fbb793f7bb.webp?size=80",
+      "Ruolo": "Dev"
+    },
+    {
+      "Nickname": "Dann",
+      "Img": "https://cdn.discordapp.com/avatars/1077935035526684702/12fa4a59003a69b7195575b04aa52f51.webp?size=80",
+      "Ruolo": "Web-Dev"
+    },
+    {
+      "Nickname": "Priamix",
+      "Img": "https://cdn.discordapp.com/avatars/854442114723872818/a66273c5a0328d0d9b6fea8b0d65bdd9.webp?size=80",
+      "Ruolo": "Web-Dev"
+    },
+    {
+      "Nickname": "Fenixoso",
+      "Img": "https://cdn.discordapp.com/avatars/1165649426061217815/ceff71a4ea2f6185c226a0e5ee77447e.webp?size=80",
+      "Ruolo": "Web-Dev"
+    },
+    
+    {
+        "Nickname": "Chiah",
+        "Img": "",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Sterminio",
+        "Img": "",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Watsune",
+        "Img": "",
+        "Ruolo": "sr.Mod"
+    },
+    {
+        "Nickname": "Blackoutfullhd",
+        "Img": "",
+        "Ruolo": "Mod"
+    },
+    {
+        "Nickname": "Scally",
+        "Img": "",
+        "Ruolo": "Mod"
+    },
+    {
+        "Nickname": "Disslessq",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "Fulminix307",
+        "Img": "",
+        "Ruolo": "Hemlper"
+    },
+    {
+        "Nickname": "Marcolino",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "NotSilvy",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "SonoMagic",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "ThePope",
+        "Img": "",
+        "Ruolo": "Helper"
+    },
+    {
+        "Nickname": "Diegonator",
+        "Img": "",
+        "Ruolo": "Trainee"
+    },
+    {
+        "Nickname": "Huzu",
+        "Img": "",
+        "Ruolo": "Builder"
+    },
+    {
+        "Nickname": "MikyOscio",
+        "Img": "",
+        "Ruolo": "Builder"
+    },
+    {
+        "Nickname": "Sterminio",
+        "Img": "",
+        "Ruolo": "sr.Mod"
+    }
+      
+]
+  

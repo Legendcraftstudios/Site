@@ -79,63 +79,59 @@
     "Img": "https://cdn.discordapp.com/avatars/1165649426061217815/ceff71a4ea2f6185c226a0e5ee77447e.webp?size=80",
     "Ruolo": "Web-Dev"
   },
-  
   {
-      "Nickname": "Chiah",
-      "Img": "https://cdn.discordapp.com/avatars/332137399603822603/22c2a5a72f61d5999d918b949717dc0f.webp?size=80",
-      "Ruolo": "sr.Mod"
+    "Nickname": "Chiah",
+    "Img": "https://cdn.discordapp.com/avatars/332137399603822603/22c2a5a72f61d5999d918b949717dc0f.webp?size=80",
+    "Ruolo": "sr.Mod"
   },
   {
-      "Nickname": "Sterminio",
-      "Img": "https://cdn.discordapp.com/avatars/797525250370699295/89af8a7965f13e3fc3d8d84660632ab3.webp?size=80",
-      "Ruolo": "sr.Mod"
+    "Nickname": "Sterminio",
+    "Img": "https://cdn.discordapp.com/avatars/797525250370699295/89af8a7965f13e3fc3d8d84660632ab3.webp?size=80",
+    "Ruolo": "sr.Mod"
   },
   {
-      "Nickname": "Watsune",
-      "Img": "https://cdn.discordapp.com/avatars/361903051382194186/3696cd225fc5ffe3200daae8662a16a9.webp?size=80",
-      "Ruolo": "sr.Mod"
+    "Nickname": "Watsune",
+    "Img": "https://cdn.discordapp.com/avatars/361903051382194186/3696cd225fc5ffe3200daae8662a16a9.webp?size=80",
+    "Ruolo": "sr.Mod"
   },
   {
-      "Nickname": "Scally",
-      "Img": "https://cdn.discordapp.com/avatars/1202658923392278528/00cad91d7add2fc0d6851b4e44913872.webp?size=80",
-      "Ruolo": "Mod"
+    "Nickname": "Scally",
+    "Img": "https://cdn.discordapp.com/avatars/1202658923392278528/00cad91d7add2fc0d6851b4e44913872.webp?size=80",
+    "Ruolo": "Mod"
   },
   {
-      "Nickname": "Disslessq",
-      "Img": "https://cdn.discordapp.com/avatars/923222140424167495/8c71457cfa1245c3e9e1d3b18b7af485.webp?size=80",
-      "Ruolo": "Helper"
+    "Nickname": "Disslessq",
+    "Img": "https://cdn.discordapp.com/avatars/923222140424167495/8c71457cfa1245c3e9e1d3b18b7af485.webp?size=80",
+    "Ruolo": "Helper"
   },
   {
-      "Nickname": "Fulminix307",
-      "Img": "https://cdn.discordapp.com/avatars/732303702731259954/a7fac7038ccf75d03ce982295eac3c64.webp?size=80",
-      "Ruolo": "Hemlper"
-  },
-
-  {
-      "Nickname": "SonoMagic",
-      "Img": "https://cdn.discordapp.com/avatars/405081375855607808/c9ac5d84954f564d242e883e5c992468.webp?size=80",
-      "Ruolo": "Helper"
+    "Nickname": "Fulminix307",
+    "Img": "https://cdn.discordapp.com/avatars/732303702731259954/a7fac7038ccf75d03ce982295eac3c64.webp?size=80",
+    "Ruolo": "Hemlper"
   },
   {
-      "Nickname": "ThePope",
-      "Img": "https://cdn.discordapp.com/avatars/700769736182726798/bbf20859910e421203a08002458763e4.webp?size=80",
-      "Ruolo": "Helper"
+    "Nickname": "SonoMagic",
+    "Img": "https://cdn.discordapp.com/avatars/405081375855607808/c9ac5d84954f564d242e883e5c992468.webp?size=80",
+    "Ruolo": "Helper"
   },
   {
-      "Nickname": "Diegonator",
-      "Img": "https://cdn.discordapp.com/avatars/917807877517901904/9352d85d18b858f735dd03cea6d972c6.webp?size=80",
-      "Ruolo": "Trainee"
+    "Nickname": "ThePope",
+    "Img": "https://cdn.discordapp.com/avatars/700769736182726798/bbf20859910e421203a08002458763e4.webp?size=80",
+    "Ruolo": "Helper"
   },
   {
-      "Nickname": "Huzu",
-      "Img": "https://cdn.discordapp.com/avatars/832244748822773813/2272c0192d88413e9a9492a0bf492c8d.webp?size=80",
-      "Ruolo": "Builder"
+    "Nickname": "Diegonator",
+    "Img": "https://cdn.discordapp.com/avatars/917807877517901904/9352d85d18b858f735dd03cea6d972c6.webp?size=80",
+    "Ruolo": "Trainee"
   },
   {
-      "Nickname": "MikyOscio",
-      "Img": "https://cdn.discordapp.com/avatars/1104076380741828618/c47df3481dfec13caa5570f35d536652.webp?size=80",
-      "Ruolo": "Builder"
+    "Nickname": "Huzu",
+    "Img": "https://cdn.discordapp.com/avatars/832244748822773813/2272c0192d88413e9a9492a0bf492c8d.webp?size=80",
+    "Ruolo": "Builder"
+  },
+  {
+    "Nickname": "MikyOscio",
+    "Img": "https://cdn.discordapp.com/avatars/1104076380741828618/c47df3481dfec13caa5570f35d536652.webp?size=80",
+    "Ruolo": "Builder"
   }
-    
 ]
-

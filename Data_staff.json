@@ -17,12 +17,12 @@
   {
     "Nickname": "UgOrr",
     "Img": "https://cdn.discordapp.com/avatars/690939219899580448/39a4f4d1e404f2bc2af7086080c5e09c.webp?size=80",
-    "Ruolo": "Sr.Admin"
+    "Ruolo": "Senior Admin"
   },
   {
     "Nickname": "Zayrox",
     "Img": "https://cdn.discordapp.com/avatars/599957090584494096/a367c1b6b6e591e30ac3d3b613e9d5ce.webp?size=80",
-    "Ruolo": "Sr.Admin"
+    "Ruolo": "Senior Admin"
   },
   {
     "Nickname": "Luky",
@@ -47,27 +47,27 @@
   {
     "Nickname": "Mandress",
     "Img": "https://cdn.discordapp.com/avatars/578970051009576961/30876f7f6830f900676e26d542bc57c8.webp?size=80",
-    "Ruolo": "Dev"
+    "Ruolo": "Developer"
   },
   {
     "Nickname": "Dann",
     "Img": "https://cdn.discordapp.com/avatars/1077935035526684702/12fa4a59003a69b7195575b04aa52f51.webp?size=80",
-    "Ruolo": "Dev"
+    "Ruolo": "Developer"
   },
   {
     "Nickname": "Moltiplicazione",
     "Img": "https://cdn.discordapp.com/avatars/954682864681754635/3fbd8f4ae943184f67d485fbb793f7bb.webp?size=80",
-    "Ruolo": "Dev"
+    "Ruolo": "Developer"
   },
   {
     "Nickname": "Fenixoso",
     "Img": "https://cdn.discordapp.com/avatars/1165649426061217815/ceff71a4ea2f6185c226a0e5ee77447e.webp?size=80",
-    "Ruolo": "Web-Dev"
+    "Ruolo": "Web Dev"
   },
   {
     "Nickname": "Sterminio",
     "Img": "https://cdn.discordapp.com/avatars/797525250370699295/89af8a7965f13e3fc3d8d84660632ab3.webp?size=80",
-    "Ruolo": "Sr.Mod"
+    "Ruolo": "Senior Mod"
   },
   {
     "Nickname": "Scally",
@@ -77,6 +77,11 @@
   {
     "Nickname": "Disslessq",
     "Img": "https://cdn.discordapp.com/avatars/923222140424167495/8c71457cfa1245c3e9e1d3b18b7af485.webp?size=80",
+    "Ruolo": "Helper"
+  },
+  {
+    "Nickname": "Diegonator",
+    "Img": "https://cdn.discordapp.com/avatars/917807877517901904/9352d85d18b858f735dd03cea6d972c6.webp?size=80",
     "Ruolo": "Helper"
   },
   {

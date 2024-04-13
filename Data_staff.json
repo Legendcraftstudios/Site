@@ -110,6 +110,11 @@
     "Img": "https://cdn.discordapp.com/avatars/688042747109703767/8a878d1f2cad259bfc9d05f0070c15ce.webp?size=80",
     "Ruolo": "Helper"
   },
+  {
+    "Nickname": "ch3btari9",
+    "Img": "https://cdn.discordapp.com/avatars/549640883083935775/5f76ff9978ef81aea371f609f2072b66.webp?size=80",
+    "Ruolo": "Trainee"
+  },
   
   
   {
@@ -121,6 +126,6 @@
     "Nickname": "MikyOscio",
     "Img": "https://cdn.discordapp.com/avatars/1104076380741828618/c47df3481dfec13caa5570f35d536652.webp?size=80",
     "Ruolo": "Builder"
-  },
+  }
   
 ]

@@ -21,8 +21,8 @@
   },
   {
     "Nickname": "justLucky",
-    "Img": "https://cdn.discordapp.com/avatars/1108499200062259281/461720b1fdaf53e7f7f752bc582737c6.webp?size=80",
-    "Ruolo": "Admin"
+    "Img": "https://cdn.discordapp.com/avatars/1224682129905025077/646ca6ec235eb1d56bf690e2201161e4.webp?size=80",
+    "Ruolo": "Senior Admin"
   },
   {
     "Nickname": "Mandress",
@@ -88,6 +88,12 @@
   {
     "Nickname": "Emanuele09",
     "Img": "https://cdn.discordapp.com/avatars/991274965305405491/fbd37b486a9f0b8986acefb482e3da60.webp?size=80",
+    "Ruolo": "Helper"
+  },
+
+  {
+    "Nickname": "Fulminix307",
+    "Img": "https://cdn.discordapp.com/avatars/732303702731259954/a7fac7038ccf75d03ce982295eac3c64.webp?size=80",
     "Ruolo": "Helper"
   },
   
